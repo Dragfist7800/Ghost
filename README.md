@@ -1,2 +1,2 @@
 # **Ghost**
-*virtual assistant with different style *
+*virtual assistant with different style*
